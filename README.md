@@ -18,3 +18,7 @@ luego
 git push origin main 
 
 y listo, subido y se sincroniza, es increible.
+
+me di cuenta que tuve un error ortografico "echo" asi que vine a arreglarlo
+
+"HECHO"
